@@ -2,3 +2,4 @@
 /playground
 npm-debug.log
 /.vscode
+server/config/config.json
